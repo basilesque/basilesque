@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Reyhan
+- 🌱 I’m currently learning web developement!
